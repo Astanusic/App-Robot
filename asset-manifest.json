@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/App-Robot/static/css/main.0c4bba77.chunk.css",
+    "main.js": "/App-Robot/static/js/main.552b865c.chunk.js",
+    "main.js.map": "/App-Robot/static/js/main.552b865c.chunk.js.map",
+    "runtime-main.js": "/App-Robot/static/js/runtime-main.08355d0a.js",
+    "runtime-main.js.map": "/App-Robot/static/js/runtime-main.08355d0a.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/App-Robot/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.fbad7c07.chunk.js": "/App-Robot/static/js/2.fbad7c07.chunk.js",
+    "static/js/2.fbad7c07.chunk.js.map": "/App-Robot/static/js/2.fbad7c07.chunk.js.map",
+    "index.html": "/App-Robot/index.html",
+    "precache-manifest.a7a052325ab5384ee01e68e4a2693fbf.js": "/App-Robot/precache-manifest.a7a052325ab5384ee01e68e4a2693fbf.js",
+    "service-worker.js": "/App-Robot/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/App-Robot/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.0c4bba77.chunk.css.map": "/App-Robot/static/css/main.0c4bba77.chunk.css.map",
+    "static/media/App.css": "/App-Robot/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.08355d0a.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.fbad7c07.chunk.js",
+    "static/css/main.0c4bba77.chunk.css",
+    "static/js/main.552b865c.chunk.js"
+  ]
+}
